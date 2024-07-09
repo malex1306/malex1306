@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💻 [malex1306] - GitHub Profile
 
-<!--
-**malex1306/malex1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/malex1306?style=social)](https://github.com/Spazapy)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating and contributing to new or excisting projects. Here's a look at my contributions and work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=malex1306&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malex1306&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malex1306&theme=radical)
+
+## 🚀 Projects
+
+### 🔭 Featured Project 1
+- **Description:** A learning application using multiple choice.
+- **Repository:** [Learningapp](https://github.com/malex1306/DOVK)
+  
+## 🛠️ Currently learning 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+---
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you want to collaborate on any project. Let's create something amazing together! 🚀
