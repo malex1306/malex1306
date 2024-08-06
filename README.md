@@ -1,6 +1,6 @@
 # 💻 [malex1306] - GitHub Profile
 
-[![GitHub followers](https://img.shields.io/github/followers/malex1306?style=social)](https://github.com/Spazapy)
+[![GitHub followers](https://img.shields.io/github/followers/malex1306?style=social)](https://github.com/malex1306)
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating and contributing to new or excisting projects. Here's a look at my contributions and work.
 
