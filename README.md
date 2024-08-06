@@ -4,6 +4,9 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating and contributing to new or excisting projects. Here's a look at my contributions and work.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-alexandre-67165131a/)
+[![Xing](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Marcel_Alexandre061965/web_profiles)
+
 ## 🏆 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=malex1306&show_icons=true&theme=radical)
