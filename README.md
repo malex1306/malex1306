@@ -20,6 +20,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ### 🔭 Featured Project 1
 - **Description:** A learning application using multiple choice.
 - **Repository:** [Learningapp](https://github.com/malex1306/DOVK)
+
+### 🔭 Featured Project 2
+- **Description:** A ticketsystem using ASP.NET Core.
+- **Repository:** [Learningapp](https://github.com/vascoalexander/ticketsystem.git)
   
 ## 🛠️ Currently learning 
 <div style="display: flex; gap: 10px;">
