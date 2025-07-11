@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ### 🔭 Featured Project 2
 - **Description:** A ticketsystem using ASP.NET Core.
-- **Repository:** [Learningapp](https://github.com/vascoalexander/ticketsystem.git)
+- **Repository:** [Ticketsystem](https://github.com/vascoalexander/ticketsystem.git)
   
 ## 🛠️ Currently learning 
 <div style="display: flex; gap: 10px;">
