@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - **Description:** A ticketsystem using ASP.NET Core.
 - **Repository:** [Ticketsystem](https://github.com/vascoalexander/ticketsystem.git)
 
-- ### 🔭 Featured Project 3
+### 🔭 Featured Project 3
 - **Description:** A learning application for kids.
 - **Repository:** [KidsLearningApp](https://github.com/malex1306/KidsLearningApp.git)
   
