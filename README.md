@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 - ### 🔭 Featured Project 3
 - **Description:** A learning application for kids.
-- **Repository:** [KidsLearningApp](https://github.com/vascoalexander/ticketsystem.git)
+- **Repository:** [KidsLearningApp](https://github.com/malex1306/KidsLearningApp.git)
   
 ## 🛠️ Currently learning 
 <div style="display: flex; gap: 10px;">
