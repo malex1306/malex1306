@@ -37,6 +37,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="30"/>
+  <img src="https://static.cdnlogo.com/logos/n/75/n8n.svg" alt="n8n" height="30"/>
 </div>
 
 
