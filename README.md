@@ -28,18 +28,24 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ### 🔭 Featured Project 3
 - **Description:** A learning application for kids.
 - **Repository:** [KidsLearningApp](https://github.com/malex1306/KidsLearningApp.git)
-  
-## 🛠️ Currently learning 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="30"/>
+  
+## 🛠️ Skills and Technologies 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30"/>
   <img src="https://static.cdnlogo.com/logos/n/75/n8n.svg" alt="n8n" height="30"/>
-</div>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React Native" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="30"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL / SQL" height="30"/>
+
+  <img src="https://img.shields.io/badge/Rive-2D2D2D?style=flat-square&logo=Rive&logoColor=FF574D" alt="Rive" height="30"/>
+</div>
 
 ---
 
