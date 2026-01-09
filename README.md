@@ -9,11 +9,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 🏆 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=malex1306&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=malex1306&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malex1306&layout=compact&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malex1306&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malex1306&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=malex1306&theme=radical)
 
 ## 🚀 Projects
 
