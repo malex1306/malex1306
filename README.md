@@ -50,4 +50,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you want to collaborate on any project. Let's create something amazing together! 🚀
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you want to collaborate on any project. Let's create something amazing together!
